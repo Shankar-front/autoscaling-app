@@ -1,6 +1,6 @@
-## Architecture Diagram
+##Architecture Diagram
 
-![Serverless Architecture](architecture.png)
+[Serverless Architecture](architecture.png)
 
 ## End-to-End Pipeline Flow
 1. Client sends HTTPS POST request to API Gateway
